@@ -21,7 +21,4 @@ Project status - complete
 
 sources - 
 - http://login2explore.com/jpdb/resources/js/0.0.3/jpdb-commons.js
-- https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css
-- https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js
-- https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js
 - https://login2explore.com/jpdb/docs.html
